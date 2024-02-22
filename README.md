@@ -16,4 +16,5 @@ KafkaWikiStream is a Spring Boot application that streams real-time changes from
 
 ## Installation
 
-1. Clone the repository:
+1. Clone the repository: https://github.com/FaresGabsi/WikimediaKafkaStreamer.git
+
